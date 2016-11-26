@@ -40,5 +40,7 @@ int main(int argc, char *argv[])
     cout << "* Call method func() for object child" << endl;
     Function(child);
 
+	cout << "Function to make the virtual and reloaded for all heirs" << endl;
+	
     return 0;
 }
